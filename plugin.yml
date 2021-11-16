@@ -1,0 +1,6 @@
+name: SDestroyChunk
+author: zSlowly
+version: 1.0
+main: pt.slowly.destroychunk.Main
+commands:
+  givedestruidorchunk:
